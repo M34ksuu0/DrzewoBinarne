@@ -1,2 +1,0 @@
-# DrzewoBinarne
-C++ Drzewo Binarne
