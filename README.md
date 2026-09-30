@@ -1,4 +1,4 @@
-# Drzewo binarne BST
+# Drzewo binarne
 
 Program w języku C++ przedstawia implementację drzewa binarnego wyszukiwania (BST).
 
